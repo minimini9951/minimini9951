@@ -11,7 +11,7 @@
 
 📰 Portfolio :
 
-### 경력
+### career
 
 ### Project
 - Basic Python Project
@@ -37,8 +37,8 @@
         - YOLO
         - Detectron2
         
- - 코딩테스트
-    - 백준사이트에서 문제 풀어보기
+ - Coding Test
+    - Solve coding problem in baekjoon online judge
 <!--
 **minimini9951/minimini9951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
