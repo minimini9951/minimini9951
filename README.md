@@ -32,8 +32,6 @@
 
     - Deep Learning : **[Repositories📘](https://github.com/minimini9951/Deep-Learning.git)**
     - Deep Learning 1st Project : **[Repositories📘](https://github.com/minimini9951/Deep-learning-1st-Project.git)**
-        - CNN
-        - RNN
         - YOLO
         - Detectron2
         
