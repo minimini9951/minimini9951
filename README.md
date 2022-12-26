@@ -30,7 +30,7 @@
     - ML : **[Repositories📘](https://github.com/minimini9951/Machine-Learning-with-Python.git)**
     - ML 1st Project : **[Repositories📘](https://github.com/minimini9951/ML-First-Project.git)**
 
-    - Deep Learning : **[Repositories📘](https://github.com/wonseok77/kdigital_deeplearning.git](https://github.com/minimini9951/Deep-Learning.git)**
+    - Deep Learning : **[Repositories📘](https://github.com/minimini9951/Deep-Learning.git)**
     - Deep Learning 1st Project : **[Repositories📘](https://github.com/minimini9951/Deep-learning-1st-Project.git)**
         - CNN
         - RNN
