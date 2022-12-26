@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
 <!--
 **minimini9951/minimini9951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
