@@ -22,6 +22,7 @@ To be added
 - domain knowledge
     - programming language
         - (Python) k-digital
+        - (C++) Digipen Academy
 
 ### personal learning
     
