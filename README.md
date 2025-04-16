@@ -15,12 +15,12 @@
 ### personal learning
     
 - Machine Learning, Deep Learning
-        - YOLO
-        - Detectron2
-        - ARIMA
-        - LSTM
+  - YOLO
+  - Detectron2
+  - ARIMA
+  - LSTM
   
 - About Engine
-      - Alpha Engine
-      - Custom Engine
-      - Unreal Enigne
+  - Alpha Engine
+  - Custom Engine
+  - Unreal Enigne
