@@ -24,5 +24,3 @@
   - Alpha Engine
   - Custom Engine
   - Unreal Enigne
-
-**[Repositories]**https://github.com/minimini9951/DigiJam_1st.git
